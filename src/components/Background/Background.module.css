@@ -1,0 +1,8 @@
+.Background {
+    position: absolute;
+    background-image: url(../../assets/images/tz-background.jpg);
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    overflow: hidden;
+}

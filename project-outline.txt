@@ -1,0 +1,16 @@
+Splash/Welcome Page
+  - media query to launch mobile or desktop version *implement last
+  - twilight zone asthetic
+  - launch button
+
+-->
+TimeLine
+  - "twilight zone-esc" background
+  - "timeline" made using codyhouse page scroll effects (scaleDown) (https://codyhouse.co/gem/page-scroll-effects)
+  - each page has the following components:
+	- Title & Date
+        - Clock with Dates - hour hand rotates for decade, min. for year - changes according to corresponding title date
+        - 3D Modal of device
+        - Description/Bio
+        - Audio Clip
+  - normal timeline toolbar at bottom of container to jump to specific date --1988--1989--1991--etc.--
