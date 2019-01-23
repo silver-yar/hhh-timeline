@@ -9,6 +9,9 @@ class Start extends Component {
         return (
             <div className={classes.Start}>
                 <img src={titleText} alt="A Hip Hop History Timeline:" />
+                <img src={titleText} alt="A Hip Hop History Timeline:" />
+                <img src={titleText} alt="A Hip Hop History Timeline:" />
+                <img src={titleText} alt="A Hip Hop History Timeline:" />
                 <Background />
                 <button>START</button>
             </div>
